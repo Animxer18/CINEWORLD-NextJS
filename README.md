@@ -59,13 +59,9 @@ npm run dev
 
 ## Tech Stack
 
-- React
-- Next.js 13
-- Tailwind CSS
-
 ## Deployment
 
-Cineworld is deployed using [Vercel](https://vercel.com/). Any changes pushed to the `main` branch will trigger an automatic deployment.
+Cineworld is deployed using Any changes pushed to the `main` branch will trigger an automatic deployment.
 
 ## Contributing
 
