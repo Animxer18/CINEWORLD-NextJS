@@ -1,14 +1,14 @@
 {
   "builds": [
     {
-      "src": "next.config.js",
+      "src": "package.json",
       "use": "@vercel/JavaScript"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "next.config.js"
+      "dest": "package.json"
     }
   ]
 }
